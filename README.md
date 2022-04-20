@@ -1,8 +1,9 @@
-- 👋 Hi, I’m @hengophone
-- 👀 I’m interested in Python development
-- 🌱 I’m currently learning high-energy physics, which involves Root, Pythia and other packages. As a result, I only possess very specific knowledge of Python and C++.
-- 💞️ I’m looking to collaborate on small and big projects, which can help deepen my knowledge in working process.
-- 📫 How to reach me Discord: Hengophone#7607; E-mail: hengophone@gmail.com
+- Hi, I’m @hengophone
+- Working as a Statistical Programmer (SAS)
+- After learning high-energy physics in university, which involved Root, Pythia and other packages, I possess very specific knowledge of Python and C++
+- I’m looking to collaborate on small and big projects, which can help deepen my knowledge in working process
+- ATM getting used to Unity3D and C#
+- How to reach me Discord: Hengophone#8829; E-mail: hengophone@gmail.com
 
 <!---
 hengophone/hengophone is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
